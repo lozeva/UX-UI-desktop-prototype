@@ -1,2 +1,2 @@
 # UX-desktop-project
-Christian churches in Bulgaria
+Desktop prototype in Figma for presenting the Christian churches in Bulgaria
